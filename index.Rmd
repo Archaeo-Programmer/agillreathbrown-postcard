@@ -1,0 +1,22 @@
+---
+title: "Andrew Gillreath-Brown"
+image: "andrew.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/andrewgillreathbrown"
+  - label: Twitter
+    url: "https://twitter.com/andrewwbrown"
+  - label: Instagram
+    url: "https://www.instagram.com/computational_archaeologist"
+  - label: GitHub
+    url: "https://github.com/Archaeo-Programmer/"
+  - label: Website
+    url: "https://andrewgillreathbrown.wordpress.com/"
+  - label: Email
+    url: "mailto:andrew.d.brown@wsu.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am a computational archaeologist interested in how individuals and groups respond to both large scale processes such as climate change and local processes such as violence and wealth inequality. I also have an interest in tattoo archaeology, particularly in the southwestern United States. I developed a deeper curiosity in the subject after discovering the oldest tattoo tool in Western North America National Geographic. 
