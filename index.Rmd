@@ -15,7 +15,7 @@ links:
   - label: Email
     url: "mailto:andrew.d.brown@wsu.edu"
 output:
-  postcards::jolla
+  postcards::jolla_blue
 site: distill::distill_website
 ---
  
